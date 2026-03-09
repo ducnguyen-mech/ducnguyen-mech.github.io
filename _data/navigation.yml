@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: https://ducnguyen-mech.github.io/about.md/
+    url: /about/
   - title: "Projects"
     url: /projects/
   - title: "Blog"
