@@ -5,7 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-# About Me
 
 Hi, I'm Duc.<br><br>
 
