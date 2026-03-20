@@ -1,14 +1,19 @@
-<h1>About Me</h1>
+---
+layout: single
+title: "About"
+permalink: /
+author_profile: true
+---
 
-<p>Hi, I'm Duc.</p>
+# About Me
 
-<h2>Interests</h2>
-<ul>
-  <li>Rocketry</li>
-  <li>Rapid prototyping</li>
-  <li>Mechanical design</li>
-  <li>Watchmaking</li>
-</ul>
+Hi, I'm Duc.<br><br>
 
-<h2>Mission</h2>
-<p>This site documents my projects and experiments.</p>
+I'm a mechanical engineering student interested in:
+
+- Rocketry
+- Rapid prototyping
+- Mechanical design
+- Watchmaking
+
+This site documents my projects and experiments.
