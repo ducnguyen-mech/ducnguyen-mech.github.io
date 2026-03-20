@@ -1,6 +1,8 @@
 ---
-title: "Rocket Drag Simulation"
+title: "Rocket Descent Automation"
 layout: single
+categories: projects
+author_profile: true
 ---
 
 ### Goal
